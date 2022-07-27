@@ -2,12 +2,12 @@
 <h3 align="center">A passionate 'Full Stack developer' from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deevsaini&label=Profile%20views&color=0e75b6&style=flat" alt="deevsaini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deevsaini&label=Profile%20views&color=red&style=for-the-badge" alt="deevsaini" /> </p>
 
 
 
--🔭 I’m currently working on Flutter and Node.js
--🌱 I’m currently learning latest tech everyday
+-🔭 I’m currently working on Flutter and Node.js <br>
+-🌱 I’m currently learning latest tech everyday <br>
 -📫 How to reach me deeveloper@icloud.com
 
 
@@ -19,7 +19,7 @@
 # ![](https://img.shields.io/badge/github-stats-black?style=for-the-badge&logo=github&logoColor=white):
 ![](https://github-readme-stats.vercel.app/api?username=deevsaini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deevsaini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deevsaini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
