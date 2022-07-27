@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Deev Saini</h1>
 <h3 align="center">A passionate 'Full Stack developer' from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deevsaini&label=Profile%20views&color=0e75b6&style=flat" alt="deevsaini" /> </p>
+```bash
 
 - 🔭 I’m currently working on **Flutter and Node.js**
 
 - 🌱 I’m currently learning **latest tech everyday**
 
 - 📫 How to reach me **deeveloper@icloud.com**
+```
 
-- ⚡ Fun fact **I used to be afraid of Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
