@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deevsaini&label=Profile%20views&color=0e75b6&style=flat" alt="deevsaini" /> </p>
 
-```bash
+
 - 🔭 I’m currently working on **Flutter and Node.js**
 
 - 🌱 I’m currently learning **latest tech everyday**
 
 - 📫 How to reach me **deeveloper@icloud.com**
-```
+
 
 
 <h3 align="left">Connect with me:</h3>
