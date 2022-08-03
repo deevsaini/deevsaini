@@ -7,8 +7,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=48&center=true&width=500&height=100&lines=Flutter+Developer;Android+Developer;Web+Developer;Graphic+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=48&center=true&width=500&height=100&lines=Flutter+Developer;Android+Developer;Web+Developer;Graphic+Designer;">
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deevsaini&label=Profile%20views&color=red&style=for-the-badge" alt="deevsaini" /> </p>
