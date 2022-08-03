@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Deev Saini</h1>
+<h1 align="center">
+  <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150759743-8cdbcae5-9d8c-4099-9353-7b025042f64c.svg"> 
+  <br>
+  <br>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey There! I'm Deev Saini  
+</h1>
 <h3 align="center">A passionate 'Full Stack developer' from India</h3>
 
 
