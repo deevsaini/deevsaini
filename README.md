@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" height="256px" src="https://github.com/deevsaini/deevsaini/blob/main/undraw_feeling_proud_qne1.svg"> 
+  <img align="center" height="256px" src="https://github.com/deevsaini/deevsaini/blob/main/undraw_developer_activity_re_39tg-2.svg"> 
   <br>
   <br>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey There! I'm Deev Saini  
