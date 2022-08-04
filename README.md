@@ -44,7 +44,7 @@
   <a href="mailto:deeveloper@icloud.com">
     <img src="https://img.shields.io/badge/-deeveloper@icloud.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
    </a>
-  <a href="[https://instagram.com/jaiswal4sudeep](https://instagram.com/deev.eloper)">
+  <a href="https://instagram.com/deev.eloper">
     <img src="https://img.shields.io/badge/-deev.eloper-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   
