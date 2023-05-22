@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=48&center=true&width=500&height=100&lines=Flutter+Developer;Android+Developer;Web+Developer;Graphic+Designer;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&pause=1000&size=44&center=true&width=500&height=100&lines=Full+Stack+App+/+Web+Developer;Graphic+Designer;">
 </p>
 
 
