@@ -19,7 +19,7 @@
 
   ## 🧑‍💻 About Me
 <ul>
-  <li> I’m currently working on Flutter and Node.js </li>
+  <li> I’m currently working on Flutter, MERN, AWS and Next.js </li>
   <li> I’m currently learning latest tech everyday </li>
   <li> I binge watch series in my free time. </li>
 <ul>
